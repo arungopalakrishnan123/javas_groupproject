@@ -1,0 +1,12 @@
+
+h1 { 
+    color: 	#505050;
+    line-height: 200%;
+    font-family: Georgia, "Times New Roman", serif;
+    text-indent: 1em;
+    text-shadow: 3px 3px 5px #CCCCCC;
+   
+}
+*{ 
+			float: left;
+}
